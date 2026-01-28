@@ -1,4 +1,4 @@
-The intended folder is final_panorama_action
+The intended folder is final_panorama_action (UNTESTED)
 
 The Working Mechanism (Step-by-Step)
 Phase 1: The Setup
