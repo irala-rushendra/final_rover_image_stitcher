@@ -1,0 +1,13 @@
+# Goal: What you send to start the task
+float32 total_angle_sweep   # e.g., 180.0
+float32 angle_interval      # e.g., 20.0
+---
+# Result: What you get when finished
+bool success
+string message
+string final_image_path
+---
+# Feedback: What you get while it is running
+float32 current_angle
+int32 image_count
+string status
